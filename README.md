@@ -5,7 +5,6 @@
 
 Library Management System
 
----
 
 ### 2. Project Description
 
@@ -13,7 +12,7 @@ Library Management System
 * Purpose of the system
 * Target users (Students, Library In-Charge)
 
----
+
 
 ### 3. Features
 
@@ -24,7 +23,7 @@ Library Management System
 * Track borrowed books and availability
 * Role-based access (Student/Admin)
 
----
+
 
 ### 4. Technology Stack
 
@@ -48,14 +47,14 @@ Library Management System
 * JWT
 * bcrypt
 
----
+
 
 ### 5. System Roles
 
 * **Student:** Browse books, borrow, view borrowed history
 * **Admin (Library In-Charge):** Manage books, track borrowers, monitor availability
 
----
+
 
 ### 6. Project Structure
 
@@ -71,7 +70,7 @@ library-management-system/
 └── README.md
 ```
 
----
+
 
 ### 7. Installation & Setup
 
@@ -81,7 +80,7 @@ library-management-system/
 * Configure environment variables
 * Run frontend and backend servers
 
----
+
 
 ### 8. Environment Variables
 
@@ -89,7 +88,6 @@ library-management-system/
 * `JWT_SECRET`
 * `PORT`
 
----
 
 ### 9. API Endpoints (Optional but Recommended)
 
