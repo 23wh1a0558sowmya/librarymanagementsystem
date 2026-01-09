@@ -183,8 +183,4 @@ The Library Management System provides an organized, secure, and user-friendly s
 
 
 
-* Add **API documentation**
-* Convert this into a **college project report**
-* Customize it for **GitHub with badges & screenshots**
 
-Just tell me 😄
