@@ -30,12 +30,12 @@ Library Management System
 **Frontend**
 
 * React.js
-* HTML, CSS, JavaScript
+
 
 **Backend**
 
 * Node.js
-* Express.js
+
 
 **Database**
 
