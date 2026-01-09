@@ -148,7 +148,7 @@ PORT=5000
 
 
 
-## 🗄 Database Schema Overview
+##  Database Schema Overview
 
 * **Users Collection**
   Stores student and admin user details
